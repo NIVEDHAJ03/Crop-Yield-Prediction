@@ -44,7 +44,6 @@ It also provides **visual analytics**, **performance evaluation**, and **crop re
 * Highlights **model consistency** and overall trend alignment with real-world data.
 
 <img width="1366" height="484" alt="crop3" src="https://github.com/user-attachments/assets/1572a94d-46cc-486b-946f-0f2ad841de26" />  
-<img width="1366" height="484" alt="crop3" src="https://github.com/user-attachments/assets/a13d9bbc-1921-4f53-854e-fd9c474b09c3" />  
 <img width="1366" height="575" alt="crop4" src="https://github.com/user-attachments/assets/f0662f6d-e37e-4af6-a532-911e2d5380d0" />  
 <img width="1366" height="550" alt="crop5" src="https://github.com/user-attachments/assets/617ddc19-7d67-4613-b5ab-97e6bbb512ae" />  
 
